@@ -1,3 +1,5 @@
+# Bash Script for Hide Phishing URL Created by KP
+
 url_checker() {
     if [ ! "${1//:*}" = http ]; then
         if [ ! "${1//:*}" = https ]; then
@@ -22,4 +24,5 @@ echo -e "\e[31mDon't use space just use '-' between words\e[0m"
 read words
 echo -e "\nGenerating Link...\n"
 final=$mask-$words@$shorter
-echo -e "URL:\e[32m ${final} \e[0m\n"
+echo -e "URL:\e[32m ${final} \e[0m\n
+sleep 5d
