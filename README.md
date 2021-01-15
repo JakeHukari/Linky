@@ -7,8 +7,6 @@ Linky is a tool you can use to shorten or create custom URL's, this is a great s
 
 # How Do I Use Linky?
 
-## Linky is currently optimized for Linux and Windows
-
 ## Linux Instructions:
 ###### git clone https://github.com/krypt0c/linky
 ###### cd linky
