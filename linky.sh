@@ -24,3 +24,4 @@ echo -e "\nGenerating Link...\n"
 final=$mask-$words@$shorter
 echo -e "URL:\e[32m ${final} \e[0m\n"
 sleep 5d
+echo ""
