@@ -11,7 +11,7 @@ Linky is a tool you can use to shorten or create custom URL's, this is a great s
 ###### git clone https://github.com/krypt0c/linky
 ###### cd linky
 ###### ./linky.sh
-## Do Not Run As Sudo, This Will Cause Problems
+###### (Do Not Run As Sudo, This Will Cause Problems)
 
 ## Windows instructions
 ###### Download normally or use git clone https://github.com/krypt0c/linky
