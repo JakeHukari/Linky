@@ -20,4 +20,4 @@ Linky is a tool you can use to shorten or create custom URL's, this is a great s
 ###### Open the file location
 ###### Open the "Linky" file using Git Bash (this should already be installed if you have git, if not then you'll need to download it)
 
-# Remember to only use this tool for legal and ethical purposes.
+# Remember to only use this tool for legal, educational, and ethical purposes.
