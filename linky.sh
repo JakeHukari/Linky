@@ -26,7 +26,7 @@ sleep 1
 echo ""
 short=$(curl -s https://is.gd/create.php\?format\=simple\&url\=${phish})
 shorter=${short#https://}
-echo 'Domain to mask original URL (with http or https):'
+echo 'Domain to mask phishing URL (with http or https):'
 read mask
 url_checker $mask
 echo -e '\nType any words you want to be in the url:'
