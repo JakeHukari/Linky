@@ -19,7 +19,7 @@ echo "
                                          ░░██████  
                                           ░░░░░░   
 "
-echo -n "Paste URL here (with http or https): "
+echo -n "Put phishing URL here (with http or https): "
 read phish
 url_checker $phish
 sleep 1
