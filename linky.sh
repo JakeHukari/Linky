@@ -29,7 +29,7 @@ shorter=${short#https://}
 echo 'Domain to mask phishing URL (with http or https):'
 read mask
 url_checker $mask
-echo -e '\nType any words you want to be in the url:'
+echo -e '\nType any other words you want to be in the url:'
 echo -e "\e[31mDon't use space just use '-' between words\e[0m"
 read words
 echo -e "\nGenerating Link...\n"
