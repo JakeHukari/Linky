@@ -8,7 +8,7 @@ Linky is a tool you can use to shorten or create custom URL's, this is a great s
 # How Do I Use Linky?
 
 ## Linux Instructions:
-###### git clone https://github.com/krypt0c/linky
+###### git clone https://github.com/JakeHukari/linky
 ###### cd linky
 ###### pip3 install -r requirements.txt
 ###### chmod +x linky.sh
