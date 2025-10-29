@@ -16,7 +16,7 @@ Linky is a tool you can use to shorten or create custom URL's, this is a great s
 ###### (Do Not Run As Sudo, This Will Cause Problems)
 
 ## Windows instructions
-###### Download normally or use git clone https://github.com/krypt0c/linky
+###### Download normally or use git clone https://github.com/JakeHukari/linky
 ###### Open the file location
 ###### Open the "Linky" file using Git Bash (this should already be installed if you have git, if not then you'll need to download it)
 
