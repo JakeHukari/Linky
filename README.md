@@ -3,7 +3,7 @@ Your new favorite link tool
 
 # What Does Linky Do?
 
-Linky is a tool you can use to shorten or create custom URL's, this is a great social engineering tool to make links appear as something that they are not.
+Linky is a tool you can use to shorten or create custom URL's, this is a great tool to make links appear as something different 
 
 # How Do I Use Linky?
 
