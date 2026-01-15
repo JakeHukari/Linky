@@ -1,5 +1,5 @@
 # Linky
-Your new favorite link tool
+link tool
 
 # What Does Linky Do?
 
